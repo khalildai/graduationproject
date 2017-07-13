@@ -1,3 +1,2 @@
 # graduationproject
-my graduationproject
-this is my graduation project and i write it with 7 or 8 days.
+this is my graduation project,it took me 7 or 8 days to finish this job.
